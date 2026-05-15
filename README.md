@@ -17,7 +17,7 @@ podľa štandardov SAE J1979 a ISO 15765-4.
 
 # Hardvér
 
-- Arduino Mega 2560 (mikrokontrolér ATmega2560)
+- Arduino Mega 2560 s WIFI (mikrokontrolér ATmega2560)
 - Seeed Studio CAN-BUS Shield V2.0 (MCP2515 + MCP2551)
 - 20x4 LCD displej s I2C rozhraním
 - Joystick modul a ovládacie tlačidlo
