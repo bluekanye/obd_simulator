@@ -23,6 +23,15 @@ podľa štandardov SAE J1979 a ISO 15765-4.
 - Joystick modul a ovládacie tlačidlo
 - OBD-II konektor (female)
 
+# Potrebné knižnice
+
+Z Library Managera v Arduino IDE treba doinštalovať tieto knižnice:
+
+| Knižnica | Autor | Verzia |
+|----------|-------|--------|
+| `mcp_can` | coryjfowler | 1.5.1 |
+| `LiquidCrystal I2C` | Frank de Brabander | 1.1.2 |
+
 # Podporované diagnostické režimy
 
 | Režim | Popis |
